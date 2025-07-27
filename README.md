@@ -13,8 +13,7 @@ values.
 
 4. If the student’s name is not found, display an appropriate message.
 
-
-   Task 2: Demonstrate List Slicing
+Task 2: Demonstrate List Slicing
 Problem Statement: Write a Python program that:
 
 1. Creates a list of numbers from 1 to 10.
